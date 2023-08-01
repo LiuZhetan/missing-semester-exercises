@@ -56,6 +56,12 @@ sudo /tmp/missing/semester
 # 最后用cut提取修改的时间信息
 ls -l /tmp/missing | grep semester | cut --delimiter=' ' --fields=6-9
 ```
+~~一开始理解错了~~
+真确答案是这样的
+```
+/tmp/missing/semester | grep last-modified > ~/last-modified.txt
+```
+
 10. 写一段命令来从 /sys 中获取笔记本的电量信息，或者台式机 CPU 的温度。注意：macOS 并没有 sysfs，所以 Mac 用户可以跳过这一题。
 ```
 # 电池的电量信息存放在/sys/class/power_supply/BAT1/capacity目录下
