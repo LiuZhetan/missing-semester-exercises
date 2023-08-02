@@ -19,11 +19,13 @@ ls --color
 
 4. 编写一个命令，它可以递归地查找文件夹中所有的HTML文件，并将它们压缩成zip文件。注意，即使文件名中包含空格，您的命令也应该能够正确执行
 ```
-#不用-exec的做法
+#不用-exec的做法, html文件已经下载在day2_script/htmls目录下
 find day2_script/htmls -name *.html -type f -print0 | xargs -0 tar cf day2_script/htmls.tar
 ```
 5. （进阶）编写一个命令或脚本递归的查找文件夹中最近使用的文件。更通用的做法，你可以按照最近的使用时间列出文件吗？
 ```
 # 只使用ls命令
 ls -l -R -t
+# 使用find
+find . -type f -mmin -60 -print0 | xargs -0 ls -lt | head -10
 ```
