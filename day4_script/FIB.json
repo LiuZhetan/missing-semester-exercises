@@ -1,0 +1,4067 @@
+[
+ {
+  "children": [
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell40",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "1997"
+     },
+     {
+      "class": "odd group1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell40",
+      "id": "cell41",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "267,783,607"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell40",
+      "id": "cell42",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,636,096"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell40",
+      "id": "cell43",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "611.0"
+     },
+     {
+      "class": "even group4 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell40",
+      "id": "cell44",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "18,208"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell40",
+      "id": "cell45",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "6.8"
+     },
+     {
+      "class": "even group6 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell40",
+      "id": "cell46",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell40",
+      "id": "cell47",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell40",
+      "id": "cell48",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "96,153"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell40",
+      "id": "cell49",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "35.9"
+     },
+     {
+      "class": "even group10 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell40",
+      "id": "cell410",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "498,534"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell40",
+      "id": "cell411",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "186.2"
+     },
+     {
+      "class": "even group12 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell40",
+      "id": "cell412",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,023,201"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell40",
+      "id": "cell413",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "382.1"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell40",
+      "id": "cell414",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "11,558,475"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell40",
+      "id": "cell415",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "4,316.3"
+     },
+     {
+      "class": "even group16 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell40",
+      "id": "cell416",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,460,526"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell40",
+      "id": "cell417",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "918.8"
+     },
+     {
+      "class": "even group18 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell40",
+      "id": "cell418",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "7,743,760"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell40",
+      "id": "cell419",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,891.8"
+     },
+     {
+      "class": "even group20 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell40",
+      "id": "cell420",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,354,189"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell40",
+      "id": "cell421",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "505.7"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell50",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "1998"
+     },
+     {
+      "class": "odd group1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell50",
+      "id": "cell51",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "270,248,003"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell50",
+      "id": "cell52",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,533,887"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell50",
+      "id": "cell53",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "567.6"
+     },
+     {
+      "class": "even group4 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell50",
+      "id": "cell54",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "16,974"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell50",
+      "id": "cell55",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "6.3"
+     },
+     {
+      "class": "even group6 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell50",
+      "id": "cell56",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell50",
+      "id": "cell57",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell50",
+      "id": "cell58",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "93,144"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell50",
+      "id": "cell59",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "34.5"
+     },
+     {
+      "class": "even group10 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell50",
+      "id": "cell510",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "447,186"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell50",
+      "id": "cell511",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "165.5"
+     },
+     {
+      "class": "even group12 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell50",
+      "id": "cell512",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "976,583"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell50",
+      "id": "cell513",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "361.4"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell50",
+      "id": "cell514",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "10,951,827"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell50",
+      "id": "cell515",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "4,052.5"
+     },
+     {
+      "class": "even group16 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell50",
+      "id": "cell516",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,332,735"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell50",
+      "id": "cell517",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "863.2"
+     },
+     {
+      "class": "even group18 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell50",
+      "id": "cell518",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "7,376,311"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell50",
+      "id": "cell519",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,729.5"
+     },
+     {
+      "class": "even group20 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell50",
+      "id": "cell520",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,242,781"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell50",
+      "id": "cell521",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "459.9"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell60",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "1999"
+     },
+     {
+      "class": "odd group1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell60",
+      "id": "cell61",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "272,690,813"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell60",
+      "id": "cell62",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,426,044"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell60",
+      "id": "cell63",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "523.0"
+     },
+     {
+      "class": "even group4 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell60",
+      "id": "cell64",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "15,522"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell60",
+      "id": "cell65",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5.7"
+     },
+     {
+      "class": "even group6 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell60",
+      "id": "cell66",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell60",
+      "id": "cell67",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell60",
+      "id": "cell68",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "89,411"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell60",
+      "id": "cell69",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "32.8"
+     },
+     {
+      "class": "even group10 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell60",
+      "id": "cell610",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "409,371"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell60",
+      "id": "cell611",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "150.1"
+     },
+     {
+      "class": "even group12 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell60",
+      "id": "cell612",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "911,740"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell60",
+      "id": "cell613",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "334.3"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell60",
+      "id": "cell614",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "10,208,334"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell60",
+      "id": "cell615",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "3,743.6"
+     },
+     {
+      "class": "even group16 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell60",
+      "id": "cell616",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,100,739"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell60",
+      "id": "cell617",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "770.4"
+     },
+     {
+      "class": "even group18 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell60",
+      "id": "cell618",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "6,955,520"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell60",
+      "id": "cell619",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,550.7"
+     },
+     {
+      "class": "even group20 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell60",
+      "id": "cell620",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,152,075"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell60",
+      "id": "cell621",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "422.5"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell70",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2000"
+     },
+     {
+      "class": "odd group1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell70",
+      "id": "cell71",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "281,421,906"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell70",
+      "id": "cell72",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,425,486"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell70",
+      "id": "cell73",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "506.5"
+     },
+     {
+      "class": "even group4 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell70",
+      "id": "cell74",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "15,586"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell70",
+      "id": "cell75",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5.5"
+     },
+     {
+      "class": "even group6 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell70",
+      "id": "cell76",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell70",
+      "id": "cell77",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell70",
+      "id": "cell78",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "90,178"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell70",
+      "id": "cell79",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "32.0"
+     },
+     {
+      "class": "even group10 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell70",
+      "id": "cell710",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "408,016"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell70",
+      "id": "cell711",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "145.0"
+     },
+     {
+      "class": "even group12 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell70",
+      "id": "cell712",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "911,706"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell70",
+      "id": "cell713",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "324.0"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell70",
+      "id": "cell714",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "10,182,584"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell70",
+      "id": "cell715",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "3,618.3"
+     },
+     {
+      "class": "even group16 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell70",
+      "id": "cell716",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,050,992"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell70",
+      "id": "cell717",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "728.8"
+     },
+     {
+      "class": "even group18 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell70",
+      "id": "cell718",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "6,971,590"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell70",
+      "id": "cell719",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,477.3"
+     },
+     {
+      "class": "even group20 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell70",
+      "id": "cell720",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,160,002"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell70",
+      "id": "cell721",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "412.2"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "children": [
+       {
+        "tag": "sup",
+        "text": "5"
+       }
+      ],
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell80",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2001"
+     },
+     {
+      "class": "odd group1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell80",
+      "id": "cell81",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "285,317,559"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell80",
+      "id": "cell82",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,439,480"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell80",
+      "id": "cell83",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "504.5"
+     },
+     {
+      "class": "even group4 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell80",
+      "id": "cell84",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "16,037"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell80",
+      "id": "cell85",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5.6"
+     },
+     {
+      "class": "even group6 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell80",
+      "id": "cell86",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell80",
+      "id": "cell87",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell80",
+      "id": "cell88",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "90,863"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell80",
+      "id": "cell89",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "31.8"
+     },
+     {
+      "class": "even group10 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell80",
+      "id": "cell810",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "423,557"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell80",
+      "id": "cell811",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "148.5"
+     },
+     {
+      "class": "even group12 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell80",
+      "id": "cell812",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "909,023"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell80",
+      "id": "cell813",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "318.6"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell80",
+      "id": "cell814",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "10,437,189"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell80",
+      "id": "cell815",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "3,658.1"
+     },
+     {
+      "class": "even group16 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell80",
+      "id": "cell816",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,116,531"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell80",
+      "id": "cell817",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "741.8"
+     },
+     {
+      "class": "even group18 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell80",
+      "id": "cell818",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "7,092,267"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell80",
+      "id": "cell819",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,485.7"
+     },
+     {
+      "class": "even group20 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell80",
+      "id": "cell820",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,228,391"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell80",
+      "id": "cell821",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "430.5"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell90",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2002"
+     },
+     {
+      "class": "odd group1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell90",
+      "id": "cell91",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "287,973,924"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell90",
+      "id": "cell92",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,423,677"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell90",
+      "id": "cell93",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "494.4"
+     },
+     {
+      "class": "even group4 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell90",
+      "id": "cell94",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "16,229"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell90",
+      "id": "cell95",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5.6"
+     },
+     {
+      "class": "even group6 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell90",
+      "id": "cell96",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell90",
+      "id": "cell97",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell90",
+      "id": "cell98",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "95,235"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell90",
+      "id": "cell99",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "33.1"
+     },
+     {
+      "class": "even group10 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell90",
+      "id": "cell910",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "420,806"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell90",
+      "id": "cell911",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "146.1"
+     },
+     {
+      "class": "even group12 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell90",
+      "id": "cell912",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "891,407"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell90",
+      "id": "cell913",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "309.5"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell90",
+      "id": "cell914",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "10,455,277"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell90",
+      "id": "cell915",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "3,630.6"
+     },
+     {
+      "class": "even group16 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell90",
+      "id": "cell916",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,151,252"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell90",
+      "id": "cell917",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "747.0"
+     },
+     {
+      "class": "even group18 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell90",
+      "id": "cell918",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "7,057,379"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell90",
+      "id": "cell919",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,450.7"
+     },
+     {
+      "class": "even group20 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell90",
+      "id": "cell920",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,246,646"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell90",
+      "id": "cell921",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "432.9"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell100",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2003"
+     },
+     {
+      "class": "odd group1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell100",
+      "id": "cell101",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "290,788,976"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell100",
+      "id": "cell102",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,383,676"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell100",
+      "id": "cell103",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "475.8"
+     },
+     {
+      "class": "even group4 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell100",
+      "id": "cell104",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "16,528"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell100",
+      "id": "cell105",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5.7"
+     },
+     {
+      "class": "even group6 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell100",
+      "id": "cell106",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell100",
+      "id": "cell107",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell100",
+      "id": "cell108",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "93,883"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell100",
+      "id": "cell109",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "32.3"
+     },
+     {
+      "class": "even group10 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell100",
+      "id": "cell1010",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "414,235"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell100",
+      "id": "cell1011",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "142.5"
+     },
+     {
+      "class": "even group12 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell100",
+      "id": "cell1012",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "859,030"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell100",
+      "id": "cell1013",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "295.4"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell100",
+      "id": "cell1014",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "10,442,862"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell100",
+      "id": "cell1015",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "3,591.2"
+     },
+     {
+      "class": "even group16 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell100",
+      "id": "cell1016",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,154,834"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell100",
+      "id": "cell1017",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "741.0"
+     },
+     {
+      "class": "even group18 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell100",
+      "id": "cell1018",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "7,026,802"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell100",
+      "id": "cell1019",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,416.5"
+     },
+     {
+      "class": "even group20 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell100",
+      "id": "cell1020",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,261,226"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell100",
+      "id": "cell1021",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "433.7"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell110",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2004"
+     },
+     {
+      "class": "odd group1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell110",
+      "id": "cell111",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "293,656,842"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell110",
+      "id": "cell112",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,360,088"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell110",
+      "id": "cell113",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "463.2"
+     },
+     {
+      "class": "even group4 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell110",
+      "id": "cell114",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "16,148"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell110",
+      "id": "cell115",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5.5"
+     },
+     {
+      "class": "even group6 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell110",
+      "id": "cell116",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell110",
+      "id": "cell117",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell110",
+      "id": "cell118",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "95,089"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell110",
+      "id": "cell119",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "32.4"
+     },
+     {
+      "class": "even group10 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell110",
+      "id": "cell1110",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "401,470"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell110",
+      "id": "cell1111",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "136.7"
+     },
+     {
+      "class": "even group12 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell110",
+      "id": "cell1112",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "847,381"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell110",
+      "id": "cell1113",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "288.6"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell110",
+      "id": "cell1114",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "10,319,386"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell110",
+      "id": "cell1115",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "3,514.1"
+     },
+     {
+      "class": "even group16 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell110",
+      "id": "cell1116",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,144,446"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell110",
+      "id": "cell1117",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "730.3"
+     },
+     {
+      "class": "even group18 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell110",
+      "id": "cell1118",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "6,937,089"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell110",
+      "id": "cell1119",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,362.3"
+     },
+     {
+      "class": "even group20 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell110",
+      "id": "cell1120",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,237,851"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell110",
+      "id": "cell1121",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "421.5"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell120",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2005"
+     },
+     {
+      "class": "odd group1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell120",
+      "id": "cell121",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "296,507,061"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell120",
+      "id": "cell122",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,390,745"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell120",
+      "id": "cell123",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "469.0"
+     },
+     {
+      "class": "even group4 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell120",
+      "id": "cell124",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "16,740"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell120",
+      "id": "cell125",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5.6"
+     },
+     {
+      "class": "even group6 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell120",
+      "id": "cell126",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell120",
+      "id": "cell127",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell120",
+      "id": "cell128",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "94,347"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell120",
+      "id": "cell129",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "31.8"
+     },
+     {
+      "class": "even group10 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell120",
+      "id": "cell1210",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "417,438"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell120",
+      "id": "cell1211",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "140.8"
+     },
+     {
+      "class": "even group12 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell120",
+      "id": "cell1212",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "862,220"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell120",
+      "id": "cell1213",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "290.8"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell120",
+      "id": "cell1214",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "10,174,754"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell120",
+      "id": "cell1215",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "3,431.5"
+     },
+     {
+      "class": "even group16 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell120",
+      "id": "cell1216",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,155,448"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell120",
+      "id": "cell1217",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "726.9"
+     },
+     {
+      "class": "even group18 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell120",
+      "id": "cell1218",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "6,783,447"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell120",
+      "id": "cell1219",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,287.8"
+     },
+     {
+      "class": "even group20 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell120",
+      "id": "cell1220",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,235,859"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell120",
+      "id": "cell1221",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "416.8"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell130",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2006"
+     },
+     {
+      "class": "odd group1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell130",
+      "id": "cell131",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "299,398,484"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell130",
+      "id": "cell132",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,435,123"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell130",
+      "id": "cell133",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "479.3"
+     },
+     {
+      "class": "even group4 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell130",
+      "id": "cell134",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "17,309"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell130",
+      "id": "cell135",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5.8"
+     },
+     {
+      "class": "even group6 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell130",
+      "id": "cell136",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell130",
+      "id": "cell137",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell130",
+      "id": "cell138",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "94,472"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell130",
+      "id": "cell139",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "31.6"
+     },
+     {
+      "class": "even group10 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell130",
+      "id": "cell1310",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "449,246"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell130",
+      "id": "cell1311",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "150.0"
+     },
+     {
+      "class": "even group12 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell130",
+      "id": "cell1312",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "874,096"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell130",
+      "id": "cell1313",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "292.0"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell130",
+      "id": "cell1314",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "10,019,601"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell130",
+      "id": "cell1315",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "3,346.6"
+     },
+     {
+      "class": "even group16 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell130",
+      "id": "cell1316",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,194,993"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell130",
+      "id": "cell1317",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "733.1"
+     },
+     {
+      "class": "even group18 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell130",
+      "id": "cell1318",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "6,626,363"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell130",
+      "id": "cell1319",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,213.2"
+     },
+     {
+      "class": "even group20 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell130",
+      "id": "cell1320",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,198,245"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell130",
+      "id": "cell1321",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "400.2"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell140",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2007"
+     },
+     {
+      "class": "odd group1 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell140",
+      "id": "cell141",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "301,621,157"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell140",
+      "id": "cell142",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,422,970"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell140",
+      "id": "cell143",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "471.8"
+     },
+     {
+      "class": "even group4 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell140",
+      "id": "cell144",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "17,128"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell140",
+      "id": "cell145",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5.7"
+     },
+     {
+      "class": "even group6 valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell140",
+      "id": "cell146",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell140",
+      "id": "cell147",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell140",
+      "id": "cell148",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "92,160"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell140",
+      "id": "cell149",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "30.6"
+     },
+     {
+      "class": "even group10 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell140",
+      "id": "cell1410",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "447,324"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell140",
+      "id": "cell1411",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "148.3"
+     },
+     {
+      "class": "even group12 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell140",
+      "id": "cell1412",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "866,358"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell140",
+      "id": "cell1413",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "287.2"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell140",
+      "id": "cell1414",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "9,882,212"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell140",
+      "id": "cell1415",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "3,276.4"
+     },
+     {
+      "class": "even group16 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell140",
+      "id": "cell1416",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,190,198"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell140",
+      "id": "cell1417",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "726.1"
+     },
+     {
+      "class": "even group18 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell140",
+      "id": "cell1418",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "6,591,542"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell140",
+      "id": "cell1419",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,185.4"
+     },
+     {
+      "class": "even group20 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell140",
+      "id": "cell1420",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,100,472"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell140",
+      "id": "cell1421",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "364.9"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell150",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2008"
+     },
+     {
+      "class": "odd group1 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell150",
+      "id": "cell151",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "304,059,724"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell150",
+      "id": "cell152",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,394,461"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell150",
+      "id": "cell153",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "458.6"
+     },
+     {
+      "class": "even group4 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell150",
+      "id": "cell154",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "16,465"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell150",
+      "id": "cell155",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5.4"
+     },
+     {
+      "class": "even group6 valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell150",
+      "id": "cell156",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell150",
+      "id": "cell157",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell150",
+      "id": "cell158",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "90,750"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell150",
+      "id": "cell159",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "29.8"
+     },
+     {
+      "class": "even group10 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell150",
+      "id": "cell1510",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "443,563"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell150",
+      "id": "cell1511",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "145.9"
+     },
+     {
+      "class": "even group12 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell150",
+      "id": "cell1512",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "843,683"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell150",
+      "id": "cell1513",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "277.5"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell150",
+      "id": "cell1514",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "9,774,152"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell150",
+      "id": "cell1515",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "3,214.6"
+     },
+     {
+      "class": "even group16 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell150",
+      "id": "cell1516",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,228,887"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell150",
+      "id": "cell1517",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "733.0"
+     },
+     {
+      "class": "even group18 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell150",
+      "id": "cell1518",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "6,586,206"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell150",
+      "id": "cell1519",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,166.1"
+     },
+     {
+      "class": "even group20 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell150",
+      "id": "cell1520",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "959,059"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell150",
+      "id": "cell1521",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "315.4"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell160",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2009"
+     },
+     {
+      "class": "odd group1 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell160",
+      "id": "cell161",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "307,006,550"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell160",
+      "id": "cell162",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,325,896"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell160",
+      "id": "cell163",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "431.9"
+     },
+     {
+      "class": "even group4 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell160",
+      "id": "cell164",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "15,399"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell160",
+      "id": "cell165",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5.0"
+     },
+     {
+      "class": "even group6 valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell160",
+      "id": "cell166",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell160",
+      "id": "cell167",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell160",
+      "id": "cell168",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "89,241"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell160",
+      "id": "cell169",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "29.1"
+     },
+     {
+      "class": "even group10 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell160",
+      "id": "cell1610",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "408,742"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell160",
+      "id": "cell1611",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "133.1"
+     },
+     {
+      "class": "even group12 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell160",
+      "id": "cell1612",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "812,514"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell160",
+      "id": "cell1613",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "264.7"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell160",
+      "id": "cell1614",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "9,337,060"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell160",
+      "id": "cell1615",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "3,041.3"
+     },
+     {
+      "class": "even group16 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell160",
+      "id": "cell1616",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,203,313"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell160",
+      "id": "cell1617",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "717.7"
+     },
+     {
+      "class": "even group18 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell160",
+      "id": "cell1618",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "6,338,095"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell160",
+      "id": "cell1619",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,064.5"
+     },
+     {
+      "class": "even group20 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell160",
+      "id": "cell1620",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "795,652"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell160",
+      "id": "cell1621",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "259.2"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell170",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2010"
+     },
+     {
+      "class": "odd group1 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell170",
+      "id": "cell171",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "309,330,219"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell170",
+      "id": "cell172",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,251,248"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell170",
+      "id": "cell173",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "404.5"
+     },
+     {
+      "class": "even group4 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell170",
+      "id": "cell174",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "14,722"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell170",
+      "id": "cell175",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "4.8"
+     },
+     {
+      "class": "even group6 valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell170",
+      "id": "cell176",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell170",
+      "id": "cell177",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell170",
+      "id": "cell178",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "85,593"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell170",
+      "id": "cell179",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "27.7"
+     },
+     {
+      "class": "even group10 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell170",
+      "id": "cell1710",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "369,089"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell170",
+      "id": "cell1711",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "119.3"
+     },
+     {
+      "class": "even group12 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell170",
+      "id": "cell1712",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "781,844"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell170",
+      "id": "cell1713",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "252.8"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell170",
+      "id": "cell1714",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "9,112,625"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell170",
+      "id": "cell1715",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,945.9"
+     },
+     {
+      "class": "even group16 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell170",
+      "id": "cell1716",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,168,459"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell170",
+      "id": "cell1717",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "701.0"
+     },
+     {
+      "class": "even group18 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell170",
+      "id": "cell1718",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "6,204,601"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell170",
+      "id": "cell1719",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,005.8"
+     },
+     {
+      "class": "even group20 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell170",
+      "id": "cell1720",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "739,565"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell170",
+      "id": "cell1721",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "239.1"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell180",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2011"
+     },
+     {
+      "class": "odd group1 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell180",
+      "id": "cell181",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "311,587,816"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell180",
+      "id": "cell182",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,206,005"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell180",
+      "id": "cell183",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "387.1"
+     },
+     {
+      "class": "even group4 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell180",
+      "id": "cell184",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "14,661"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell180",
+      "id": "cell185",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "4.7"
+     },
+     {
+      "class": "even group6 valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell180",
+      "id": "cell186",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell180",
+      "id": "cell187",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell180",
+      "id": "cell188",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "84,175"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell180",
+      "id": "cell189",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "27.0"
+     },
+     {
+      "class": "even group10 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell180",
+      "id": "cell1810",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "354,746"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell180",
+      "id": "cell1811",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "113.9"
+     },
+     {
+      "class": "even group12 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell180",
+      "id": "cell1812",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "752,423"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell180",
+      "id": "cell1813",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "241.5"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell180",
+      "id": "cell1814",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "9,052,743"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell180",
+      "id": "cell1815",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,905.4"
+     },
+     {
+      "class": "even group16 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell180",
+      "id": "cell1816",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,185,140"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell180",
+      "id": "cell1817",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "701.3"
+     },
+     {
+      "class": "even group18 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell180",
+      "id": "cell1818",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "6,151,095"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell180",
+      "id": "cell1819",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,974.1"
+     },
+     {
+      "class": "even group20 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell180",
+      "id": "cell1820",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "716,508"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell180",
+      "id": "cell1821",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "230.0"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell190",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2012"
+     },
+     {
+      "class": "odd group1 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell190",
+      "id": "cell191",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "313,873,685"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell190",
+      "id": "cell192",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,217,057"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell190",
+      "id": "cell193",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "387.8"
+     },
+     {
+      "class": "even group4 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell190",
+      "id": "cell194",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "14,856"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell190",
+      "id": "cell195",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "4.7"
+     },
+     {
+      "class": "even group6 valignmentbottom",
+      "colspan": "1",
+      "headers": "cell36 cell190",
+      "id": "cell196",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom",
+      "colspan": "1",
+      "headers": "cell37 cell190",
+      "id": "cell197",
+      "rowspan": "1",
+      "tag": "td"
+     },
+     {
+      "class": "even group8 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell190",
+      "id": "cell198",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "85,141"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell190",
+      "id": "cell199",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "27.1"
+     },
+     {
+      "class": "even group10 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell190",
+      "id": "cell1910",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "355,051"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell190",
+      "id": "cell1911",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "113.1"
+     },
+     {
+      "class": "even group12 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell190",
+      "id": "cell1912",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "762,009"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell190",
+      "id": "cell1913",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "242.8"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell190",
+      "id": "cell1914",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "9,001,992"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell190",
+      "id": "cell1915",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,868.0"
+     },
+     {
+      "class": "even group16 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell190",
+      "id": "cell1916",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,109,932"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell190",
+      "id": "cell1917",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "672.2"
+     },
+     {
+      "class": "even group18 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell190",
+      "id": "cell1918",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "6,168,874"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell190",
+      "id": "cell1919",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,965.4"
+     },
+     {
+      "class": "even group20 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell190",
+      "id": "cell1920",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "723,186"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell190",
+      "id": "cell1921",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "230.4"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell200",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2013"
+     },
+     {
+      "class": "odd group1 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell200",
+      "id": "cell201",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "316,497,531"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell200",
+      "id": "cell202",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,168,298"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell200",
+      "id": "cell203",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "369.1"
+     },
+     {
+      "class": "even group4 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell200",
+      "id": "cell204",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "14,319"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell200",
+      "id": "cell205",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "4.5"
+     },
+     {
+      "class": "even group6 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell36 cell200",
+      "id": "cell206",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "113,695"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell37 cell200",
+      "id": "cell207",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "35.9"
+     },
+     {
+      "class": "even group8 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell200",
+      "id": "cell208",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "82,109"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell200",
+      "id": "cell209",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "25.9"
+     },
+     {
+      "class": "even group10 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell200",
+      "id": "cell2010",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "345,093"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell200",
+      "id": "cell2011",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "109.0"
+     },
+     {
+      "class": "even group12 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell200",
+      "id": "cell2012",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "726,777"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell200",
+      "id": "cell2013",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "229.6"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell200",
+      "id": "cell2014",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "8,651,892"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell200",
+      "id": "cell2015",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,733.6"
+     },
+     {
+      "class": "even group16 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell200",
+      "id": "cell2016",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,932,139"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell200",
+      "id": "cell2017",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "610.5"
+     },
+     {
+      "class": "even group18 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell200",
+      "id": "cell2018",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "6,019,465"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell200",
+      "id": "cell2019",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,901.9"
+     },
+     {
+      "class": "even group20 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell200",
+      "id": "cell2020",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "700,288"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell200",
+      "id": "cell2021",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "221.3"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell210",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2014"
+     },
+     {
+      "class": "odd group1 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell210",
+      "id": "cell211",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "318,907,401"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell210",
+      "id": "cell212",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,153,022"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell210",
+      "id": "cell213",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "361.6"
+     },
+     {
+      "class": "even group4 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell210",
+      "id": "cell214",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "14,164"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell210",
+      "id": "cell215",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "4.4"
+     },
+     {
+      "class": "even group6 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell36 cell210",
+      "id": "cell216",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "118,027"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell37 cell210",
+      "id": "cell217",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "37.0"
+     },
+     {
+      "class": "even group8 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell210",
+      "id": "cell218",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "84,864"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell210",
+      "id": "cell219",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "26.6"
+     },
+     {
+      "class": "even group10 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell210",
+      "id": "cell2110",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "322,905"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell210",
+      "id": "cell2111",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "101.3"
+     },
+     {
+      "class": "even group12 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell210",
+      "id": "cell2112",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "731,089"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell210",
+      "id": "cell2113",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "229.2"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell210",
+      "id": "cell2114",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "8,209,010"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell210",
+      "id": "cell2115",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,574.1"
+     },
+     {
+      "class": "even group16 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell210",
+      "id": "cell2116",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,713,153"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell210",
+      "id": "cell2117",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "537.2"
+     },
+     {
+      "class": "even group18 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell210",
+      "id": "cell2118",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5,809,054"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell210",
+      "id": "cell2119",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,821.5"
+     },
+     {
+      "class": "even group20 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell210",
+      "id": "cell2120",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "686,803"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell210",
+      "id": "cell2121",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "215.4"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "children": [
+       {
+        "tag": "sup",
+        "text": "6"
+       }
+      ],
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell220",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2015"
+     },
+     {
+      "class": "odd group1 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell220",
+      "id": "cell221",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "320,896,618"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell220",
+      "id": "cell222",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,199,310"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell220",
+      "id": "cell223",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "373.7"
+     },
+     {
+      "class": "even group4 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell220",
+      "id": "cell224",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "15,883"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell220",
+      "id": "cell225",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "4.9"
+     },
+     {
+      "class": "even group6 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell36 cell220",
+      "id": "cell226",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "126,134"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell37 cell220",
+      "id": "cell227",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "39.3"
+     },
+     {
+      "class": "even group8 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell220",
+      "id": "cell228",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "91,261"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell220",
+      "id": "cell229",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "28.4"
+     },
+     {
+      "class": "even group10 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell220",
+      "id": "cell2210",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "328,109"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell220",
+      "id": "cell2211",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "102.2"
+     },
+     {
+      "class": "even group12 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell220",
+      "id": "cell2212",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "764,057"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell220",
+      "id": "cell2213",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "238.1"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell220",
+      "id": "cell2214",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "8,024,115"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell220",
+      "id": "cell2215",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,500.5"
+     },
+     {
+      "class": "even group16 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell220",
+      "id": "cell2216",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,587,564"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell220",
+      "id": "cell2217",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "494.7"
+     },
+     {
+      "class": "even group18 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell220",
+      "id": "cell2218",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5,723,488"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell220",
+      "id": "cell2219",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,783.6"
+     },
+     {
+      "class": "even group20 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell220",
+      "id": "cell2220",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "713,063"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell220",
+      "id": "cell2221",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "222.2"
+     }
+    ],
+    "tag": "tr"
+   },
+   {
+    "children": [
+     {
+      "class": "even group0 indent1 alignleft valignmentbottom",
+      "colspan": "1",
+      "headers": "cell30",
+      "id": "cell230",
+      "rowspan": "1",
+      "scope": "row",
+      "tag": "th",
+      "text": "2016"
+     },
+     {
+      "class": "odd group1 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell31 cell230",
+      "id": "cell231",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "323,127,513"
+     },
+     {
+      "class": "even group2 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell32 cell230",
+      "id": "cell232",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,248,185"
+     },
+     {
+      "class": "odd group3 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell33 cell230",
+      "id": "cell233",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "386.3"
+     },
+     {
+      "class": "even group4 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell34 cell230",
+      "id": "cell234",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "17,250"
+     },
+     {
+      "class": "odd group5 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell35 cell230",
+      "id": "cell235",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5.3"
+     },
+     {
+      "class": "even group6 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell36 cell230",
+      "id": "cell236",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "130,603"
+     },
+     {
+      "class": "odd group7 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell37 cell230",
+      "id": "cell237",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "40.4"
+     },
+     {
+      "class": "even group8 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell38 cell230",
+      "id": "cell238",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "95,730"
+     },
+     {
+      "class": "odd group9 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell39 cell230",
+      "id": "cell239",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "29.6"
+     },
+     {
+      "class": "even group10 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell310 cell230",
+      "id": "cell2310",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "332,198"
+     },
+     {
+      "class": "odd group11 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell311 cell230",
+      "id": "cell2311",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "102.8"
+     },
+     {
+      "class": "even group12 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell312 cell230",
+      "id": "cell2312",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "803,007"
+     },
+     {
+      "class": "odd group13 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell313 cell230",
+      "id": "cell2313",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "248.5"
+     },
+     {
+      "class": "even group14 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell314 cell230",
+      "id": "cell2314",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "7,919,035"
+     },
+     {
+      "class": "odd group15 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell315 cell230",
+      "id": "cell2315",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "2,450.7"
+     },
+     {
+      "class": "even group16 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell316 cell230",
+      "id": "cell2316",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,515,096"
+     },
+     {
+      "class": "odd group17 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell317 cell230",
+      "id": "cell2317",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "468.9"
+     },
+     {
+      "class": "even group18 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell318 cell230",
+      "id": "cell2318",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "5,638,455"
+     },
+     {
+      "class": "odd group19 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell319 cell230",
+      "id": "cell2319",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "1,745.0"
+     },
+     {
+      "class": "even group20 valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell320 cell230",
+      "id": "cell2320",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "765,484"
+     },
+     {
+      "class": "odd group21 indent1 alignright valignmentbottom numbercell",
+      "colspan": "1",
+      "headers": "cell321 cell230",
+      "id": "cell2321",
+      "rowspan": "1",
+      "tag": "td",
+      "text": "236.9"
+     }
+    ],
+    "tag": "tr"
+   }
+  ],
+  "tag": "tbody"
+ }
+]
