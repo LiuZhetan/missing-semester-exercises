@@ -1,7 +1,9 @@
-## 数据整理
+# 数据整理
+
 1. 学习一下这篇简短的交互式正则表达式教程
 2. 统计words文件 (/usr/share/dict/words) 中包含至少三个a 且不以's 结尾的单词个数。这些单词中，出现频率前三的末尾两个字母是什么？ sed的 y命令，或者 tr 程序也许可以帮你解决大小写的问题。共存在多少种词尾两字母组合？还有一个很 有挑战性的问题：哪个组合从未出现过？
 没有words文件从Wikipedia摘取了[Horry Potter](https://en.wikipedia.org/wiki/Harry_Potter)的介绍文字，存放在harry_potter.txt中。
+
 ```
 # 统计个数
 sed 's/[ .:,]/\n/g' harry_potter.txt \
@@ -23,7 +25,9 @@ sed 's/[ .:,]/\n/g' harry_potter.txt \
 | head -n3
 # 进阶参考了解答
 ```
+
 3. 进行原地替换听上去很有诱惑力，例如： sed s/REGEX/SUBSTITUTION/ input.txt > input.txt。但是这并不是一个明智的做法，为什么呢？还是说只有 sed是这样的? 查看 man sed 来完成这个问题。
+
 ```
 # 随便将text.txt文件中的e字母替换成a
 echo hello,world! > text.txt
