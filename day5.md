@@ -22,3 +22,21 @@
     创建一个sleep进程然后执行"ls -a"程序，将输出重定向到"day5_script/out.txt"文件中。
 
     ![运行结果](./imgs/5-1-2.png)
+
+## 终端多路复用
+
+1. 请完成这个 tmux 教程 参考这些步骤来学习如何自定义 tmux。
+
+## 别名
+
+1. 创建一个 dc 别名，它的功能是当我们错误的将 cd 输入为 dc 时也能正确执行。
+2. 执行 history | awk '{$1="";print substr($0,2)}' | sort | uniq -c | sort -n | tail -n 10 来获取您最常用的十条命令，尝试为它们创建别名。注意：这个命令只在 Bash 中生效，如果您使用 ZSH，使用history 1 替换 history。
+
+```shell
+# 创建dc别名
+alias dc=cd
+# 创建comm别名,注意$和“要使用转义符
+alias comm="history | awk '{\$1=\"\";print substr(\$0,2)}' | sort | uniq -c | sort -n | tail -n 10"
+```
+
+![运行结果](./imgs/5-3-1.png)
