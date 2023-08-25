@@ -60,3 +60,32 @@
     ![运行结果](./imgs/6-2-3.png)
 
     ![运行结果](./imgs/6-2-4.png)
+
+4. 从 GitHub 上克隆某个仓库，修改一些文件。当您使用 git stash 会发生什么？当您执行 git log --all --oneline 时会显示什么？通过 git stash pop 命令来撤销 git stash 操作，什么时候会用到这一技巧？
+
+    ```shell
+    echo hello,world! > hello_world.txt
+    echo "## this is a demo" >> README.md
+    git status
+    git stash
+    git log --all --oneline
+    ```
+
+    ![运行结果](./imgs/6-3-1.png)
+
+    > 可以从git status看到状态退回到了初始状态，但是文件没删除
+
+    再看一下文件内容：
+
+    ![运行结果](./imgs/6-3-2.png)
+
+    > README.md的内容回退了，hello_world.txt没变
+
+    ```shell
+    # 撤销stash
+    git stash pop
+    ```
+
+    ![运行结果](./imgs/6-3-3.png)
+
+    关于stash的使用情景，见这篇[博客](https://www.cnblogs.com/tocy/p/git-stash-reference.html).
