@@ -19,3 +19,44 @@
         ![运行结果](./imgs/6-1-2.png)
 
     3. 最后一次修改_config.yml 文件中 collections: 行时的提交信息是什么？（提示：使用 git blame 和 git show）
+
+        ```shell
+        # 列出所有的修改情况
+        git blame _config.yml
+        ```
+
+        ![运行结构](./imgs/6-1-3.png)
+
+        ```shell
+        # 使用grep筛选
+        git blame _config.yml | grep collections:
+        ```
+
+        ![运行结果](./imgs/6-1-4.png)
+
+3. 使用 Git 时的一个常见错误是提交本不应该由 Git 管理的大文件，或是将含有敏感信息的文件提交给 Git 。尝试向仓库中添加一个文件并添加提交信息，然后将其从历史中删除 ( 这篇文章也许会有帮助)；
+
+    先模拟创建一个敏感文件，并提交到仓库：
+
+    ![运行结构](./imgs/6-2-1.png)
+
+    使用[bgf](https://rtyley.github.io/bfg-repo-cleaner/)删除这个文件：
+
+    ```shell
+    # 尝试删除文件，无法删除
+    bfg --delete-files password.txt 
+    ```
+
+    ![运行结果](./imgs/6-2-2.png)
+
+    这样会有一个问题，这种情况bfg会保护当前版本(HEAD所指的版本)，不去清理，参考这篇[博客](https://www.cnblogs.com/huipengly/p/8424096.html)。这时候需要添加--no-blob-protection，命令如下：
+
+    ```shell
+    bfg --delete-files password.txt --no-blob-protection
+    git reflog expire --expire=now --all && git gc --prune=now --aggressive
+    git push --force
+    ```
+
+    ![运行结果](./imgs/6-2-3.png)
+
+    ![运行结果](./imgs/6-2-4.png)
