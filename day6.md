@@ -89,3 +89,20 @@
     ![运行结果](./imgs/6-3-3.png)
 
     关于stash的使用情景，见这篇[博客](https://www.cnblogs.com/tocy/p/git-stash-reference.html).
+
+5. 与其他的命令行工具一样，Git 也提供了一个名为 ~/.gitconfig 配置文件 (或 dotfile)。请在 ~/.gitconfig 中创建一个别名，使您在运行 git graph 时，您可以得到 git log --all --graph --decorate --oneline 的输出结果；
+
+    ```shell
+    vim ~/.gitconfig
+    ```
+
+    增加以下内容：
+
+    >[alias]\
+     graph = log --all --graph --decorate --oneline
+
+6. 您可以通过执行 git config --global core.excludesfile ~/.gitignore_global 在 ~/.gitignore_global 中创建全局忽略规则。配置您的全局 gitignore 文件来自动忽略系统或编辑器的临时文件，例如 .DS_Store
+
+    ```shell
+    echo .DS_Store >> .gitignore
+    ```
