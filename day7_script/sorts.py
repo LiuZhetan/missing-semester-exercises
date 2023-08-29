@@ -1,4 +1,5 @@
 import random
+from memory_profiler import profile
 
 
 def test_sorted(fn, iters=1000):
@@ -8,6 +9,7 @@ def test_sorted(fn, iters=1000):
         # print(fn.__name__, fn(l))
 
 
+@profile
 def insertionsort(array):
 
     for i in range(len(array)):
@@ -50,5 +52,5 @@ def quicksort_inplace(array, low=0, high=None):
 
 
 if __name__ == '__main__':
-    for fn in [quicksort, quicksort_inplace, insertionsort]:
-        test_sorted(fn)
+    for fn in [quicksort]:
+        test_sorted(fn,iters=1)
