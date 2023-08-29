@@ -50,5 +50,50 @@
 
     ![静态检查](./imgs/7-1-5.png)
 
-4. (进阶题) 请阅读 可逆调试 并尝试创建一个可以工作的例子（使用 rr 或 RevPDB）。
+4. (进阶题) 请阅读 可逆调试 并尝试创建一个可以工作的例子（使用 rr 或 RevPDB）。此外，GDB也自带reverse debugging功能，参考这篇[教程](https://www.sourceware.org/gdb/wiki/ProcessRecord/Tutorial)和这份[文档](https://sourceware.org/gdb/onlinedocs/gdb/Reverse-Execution.html)以及[官方文档](https://www.sourceware.org/gdb/news/reversible.html)
 
+    参考这个例子:
+    ```C
+    int xyz;
+
+    int bar ()
+    {
+    xyz = 2; /* break in bar */
+    return 1;
+    }
+
+    int foo ()
+    {
+    xyz = 1; /* break in foo */
+    return bar ();
+    }
+
+    int main ()
+    {
+    xyz = 0;      /* break in main */
+    foo ();
+    return (xyz == 2 ? 0 : 1);
+    }               /* end of main */
+    ```
+
+    调试上述例子
+    ```shell
+    cd day7_script
+    gcc -g reverse_debug.c -o ./output/reverse_debug
+    cd ./output
+    gdb reverse_debug
+    ```
+
+    设置断点，运行:
+
+    ![运行结果](./imgs/7-2-1.png)
+
+    reverse-continue:
+
+    ![运行结果](./imgs/7-2-2.png)
+
+    finish和reverse-finish:
+
+    ![运行结果](./imgs/7-2-3.png)
+
+    >注意：gdb的reocrd支持的指令有限（例如如果有getchar函数就不能record），且支持的架构有限。
